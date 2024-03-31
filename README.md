@@ -18,7 +18,7 @@ To run the YOLOv8 model and utilize the code in this repository, ensure you have
 
 - Python 3.7 or later
 - PyTorch
-- OpenCV
+- Gradio for simple interactive UI
 - Ultralytics YOLOv8
 
 # Model Evaluation
