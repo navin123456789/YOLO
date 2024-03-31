@@ -21,15 +21,15 @@ To run the YOLOv8 model and utilize the code in this repository, ensure you have
 - OpenCV
 - Ultralytics YOLOv8
 
-You can install the required Python packages using pip:
-
-```bash
-pip install torch opencv-python ultralytics
-
 # Model Evaluation
 ![confusion_matrix_normalized](https://github.com/navin123456789/YOLO/assets/115971770/ddda31a2-3e86-4c8f-a938-613654738f00)
+
 ![cows](https://github.com/navin123456789/YOLO/assets/115971770/e2898b14-cec8-4976-ad22-bfb4279e0e52)
+
 ![elephants](https://github.com/navin123456789/YOLO/assets/115971770/f210c03b-2f0a-4b0b-9d8b-59c46db0a0f3)
+
+
+
 
 
 
