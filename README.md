@@ -4,7 +4,7 @@ This project aims to enhance social security measures through advanced animal de
 
 # Datasets:
 
-The datasets used in this project are like big collections of pictures and information about animals. We carefully gathered images of different animals that are important for social security, like elephants, cows, buffaloes,snake, goats, dogs Each picture in the dataset has details about where the animal is and what it's doing. We also marked each animal in the pictures to help the computer learn to recognize them better. This information is really important because it helps the computer understand what these animals look like and where they might be found. The custom dataset consists of annotated images containing the six specified animal classes. Annotations are provided in the YOLO format, facilitating training and evaluation of the model.
+The datasets used in this project are like big collections of pictures and information about animals. We carefully gathered images of different animals that are important for social security, like elephants, cows, buffaloes,snake, goats, dogs. Each picture in the dataset has details about where the animal is and what it's doing. We also marked each animal in the pictures to help the computer learn to recognize them better. This information is really important because it helps the computer understand what these animals look like and where they might be found. The custom dataset consists of annotated images containing the six specified animal classes. Annotations are provided in the YOLO format, facilitating training and evaluation of the model.
 
 # Dependencies To run the model and utilize the code in this repository, ensure you have the following dependencies installed:
 
