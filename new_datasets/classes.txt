@@ -1,8 +1,0 @@
-goat
-elephant
-dog
-snake
-buffalo
-cow
-w
-bull
