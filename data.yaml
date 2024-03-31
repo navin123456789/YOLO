@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/data/new_datasets
+train: /content/drive/MyDrive/data/new_datasets/images/train #realtive path
+val: /content/drive/MyDrive/data/new_datasets/images/val #relative path
+
+
+nc: 8
+names: ['goat','elephant','dog','snake','buffalo','cow','w','bull']
