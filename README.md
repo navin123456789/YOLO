@@ -1,0 +1,32 @@
+## Animal Detection for Social Security using YOLO v8 pretained weight with custom datasets:
+
+This project aims to enhance social security measures through advanced animal detection using the YOLOv8 object detection model. By leveraging pretrained weights and fine-tuning on a custom dataset tailored for social security applications, the system can accurately identify animals of interest in various contexts. Whether it's monitoring livestock in rural areas to prevent theft or tracking wildlife in protected zones to mitigate human-animal conflicts, this technology offers a robust solution.
+
+## Datasets:
+
+The datasets used in this project are like big collections of pictures and information about animals. We carefully gathered images of different animals that are important for social security, like elephants, cows, buffaloes, goats, dogs, and leopards. Each picture in the dataset has details about where the animal is and what it's doing. We also marked each animal in the pictures to help the computer learn to recognize them better. This information is really important because it helps the computer understand what these animals look like and where they might be found. The custom dataset consists of annotated images containing the six specified animal classes. Annotations are provided in the YOLO format, facilitating training and evaluation of the model.
+
+## Dependencies To run the model and utilize the code in this repository, ensure you have the following dependencies installed:
+
+# YOLOv8 Object Detection
+
+This repository contains code for running the YOLOv8 object detection model.
+
+# Dependencies
+
+To run the YOLOv8 model and utilize the code in this repository, ensure you have the following dependencies installed:
+
+- Python 3.7 or later
+- PyTorch
+- OpenCV
+- Ultralytics YOLOv8
+
+You can install the required Python packages using pip:
+
+```bash
+pip install torch opencv-python ultralytics
+
+
+
+
+
